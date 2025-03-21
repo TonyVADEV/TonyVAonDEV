@@ -1,7 +1,6 @@
 <p align='center'>
-<a href="https://twitch.tv/YisusTM_01"><img height="64" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/twitch-512.png"></a>&nbsp;&nbsp;   
-<a href="https://twitter.com/YisusTM_01"><img height="64" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/YisusTM_01"><img height="64" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-256.png"></a>&nbsp;&nbsp;
+<a href="https://twitch.tv/TonyVA"><img height="64" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/twitch-512.png"></a>&nbsp;&nbsp;   
+<a href="https://www.instagram.com/tonyva_"><img height="64" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-256.png"></a>&nbsp;&nbsp;
 </p>  
 
 ### Hello there! 👋
